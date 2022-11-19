@@ -25,7 +25,7 @@ export const getNews = createAsyncThunk(
       const { data } = await axios(url);
       return data.articles;
     } catch (error) {
-      console.log(error);
+      // console.log(error);
       return rejectWithValue("Something went wrong");
     }
   }
