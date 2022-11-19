@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/redux-project/static/js/main.e1dcc826.js",
+    "static/media/loading.gif": "/redux-project/static/media/loading.9580626320c504a04ea8.gif",
+    "index.html": "/redux-project/index.html",
+    "main.e1dcc826.js.map": "/redux-project/static/js/main.e1dcc826.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e1dcc826.js"
+  ]
+}
