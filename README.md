@@ -1,5 +1,7 @@
 # Redux Toolkit Ornegi
 
+https://ademklf.github.io/redux-project/
+
 ## `Kurulum`
 
 ```
